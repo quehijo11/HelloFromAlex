@@ -1,6 +1,7 @@
 package Greetings;
 
 public class Main {
+
     public static void main(String[] args) {
         String alexName = "Alex";
         String aaronName = "Aaron";
